@@ -1,18 +1,14 @@
 ---
-title: Lesson Template
+title: AI Research Showdown
 layout: lesson-content
 anchor_headings: false
 ---
 
-A minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
+Join us for AI tools battling head-to-head!
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="Gemini_Generated_Image_cmdjhjcmdjhjcmdj.jpg" alt="two robots face off in a western town armed with research articles" caption="Library workshop"  %}
 
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+In this hands-on session, we'll put a variety of LLM platforms and tools available on campus to the test, seeing how they stack up in common research tasks. We'll explore how to help identify biases and errors in their outputs; discussing where these tools are useful (or not) compared to traditional research databases and search strategies.
 
 {% include toc.html %}
 
