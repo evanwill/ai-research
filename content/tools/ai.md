@@ -27,6 +27,11 @@ Considerations:
     - search from an article, link to zotero library, keyword search
 
 
+broad types: general purpose generative models vs. specialized, research-grade retrieval-augmented generation (RAG) platforms
+general llms risk = hallucination. RAGs attempt to ground in real research
+challenge = reproducible search strategies
+
+databases -- generate boolean using ai from plain language
 
 
 Based on recent surveys and reports from 2024-2025, here are the most widely used AI research tools in academia:
