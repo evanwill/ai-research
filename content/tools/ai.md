@@ -5,6 +5,11 @@ title: AI Tools
 topics: 
 ---
 
+
+- Specialized Academic AI (Consensus, Elicit, Undermind): These platforms bypass general chat interfaces to search directly across scientific literature databases. They excel at paper discovery, extracting methodology-level details, and synthesizing cross-study consensus.
+- Generalist Campus LLMs (Claude, Gemini, ChatGPT): While highly capable of processing long-context documents and translating dense academic jargon, they do not inherently search scholarly databases unless specifically prompted or tethered to a retrieval tool. They are best utilized for brainstorming, refining research questions, and generating Boolean strings.
+
+
 Considerations:
 
 - what sources do they search or have access to?
