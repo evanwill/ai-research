@@ -5,29 +5,32 @@ title: Smart Search
 topics: 
 ---
 
-Library Catalog (Primo)
+First, let's compare the results from *traditional* and AI search options built into Library database tools.
+Using general search strategies, try finding some sources for your research topics using the tools listed below.
 
-Normal search
-https://alliance-uidaho.primo.exlibrisgroup.com/discovery/search?vid=01ALLIANCE_UID%3AUID&lang=en
-
-vs Primo Research Assistant
-https://alliance-uidaho.primo.exlibrisgroup.com/discovery/researchAssistant?vid=01ALLIANCE_UID%3AUID
 
 -----------
 
-Academic Search Premier
-https://uidaho.idm.oclc.org/login?url=https://search.ebscohost.com/login.asp?profile=ehost&defaultdb=aph
+## Library Catalog (Primo)
 
-A good general index to start your research. This multi-disciplinary database provides full text for more than 3,600 scholarly publications, including full text for more than 2,700 peer-reviewed journals. Coverage spans virtually every area of academic study.
+- [Normal search](https://alliance-uidaho.primo.exlibrisgroup.com/discovery/search?vid=01ALLIANCE_UID%3AUID&lang=en)
+- [Primo Research Assistant](https://alliance-uidaho.primo.exlibrisgroup.com/discovery/researchAssistant?vid=01ALLIANCE_UID%3AUID)
 
-Basic search vs AI-assisted search (generates boolean)
+-----------
+
+## Academic Search Premier
+
+[Academic Search Premier](https://uidaho.idm.oclc.org/login?url=https://search.ebscohost.com/login.asp?profile=ehost&defaultdb=aph)
+
+- Basic search
+- "AI-assisted search" (generates boolean keywords)
 
 -------
 
-Web of Science
-https://uidaho.idm.oclc.org/login?url=https://www.webofscience.com/wos/woscc/basic-search
+## Web of Science
 
-Access the world’s leading scholarly literature in the sciences, social sciences, arts, and humanities and examine proceedings of international conferences, symposia, seminars, colloquia, workshops, and conventions.
+[Web of Science](https://uidaho.idm.oclc.org/login?url=https://www.webofscience.com/wos/woscc/basic-search)
 
-Advanced search vs Smart search
+- Advanced search
+- "Smart search"
 

@@ -5,18 +5,19 @@ title: AI Tools
 topics: 
 ---
 
-General purpose AI chatbots are good at basic summarizing, translating jargon, brainstorming, refining research questions, and generating keywords for traditional search tools.
+Just as AI tools have transformed search on the internet, the research process has been impacted with new strategies, challenges, and opportunities.
+We can divide AI tools into a few basic categories:
 
-- Specialized Academic AI: These platforms bypass general chat interfaces to search directly across scientific literature databases. They excel at paper discovery, extracting methodology-level details, and synthesizing cross-study consensus.
-- Generalist Campus LLMs (Claude, Gemini, ChatGPT): While highly capable of processing long-context documents and translating dense academic jargon, they do not inherently search scholarly databases unless specifically prompted or tethered to a retrieval tool. They are best utilized for brainstorming, refining research questions, and generating Boolean strings.
+| Tool | Example | Use |
+| --- | --- | --- |
+| General purpose AI | Claude, ChatGPT | Good at basic summarizing, translating jargon, brainstorming, refining research questions, and generating keywords for traditional search tools. Not tied to scholarly ecosystems, so higher risks of hallucinations and other issues. |
+| Specialized Academic AI | Ai2 Asta | Platforms tied to scholarly literature databases specifically designed for research tasks. |
+| Database helpers | AI-assisted search | Generates boolean or keywords from plain language queries to improve search performance in traditional databases. |
+{:.table .table-bordered}
 
-broad types: general purpose generative models vs. specialized, research-grade retrieval-augmented generation (RAG) platforms
-general llms risk = hallucination. RAGs attempt to ground in real research
-challenge = reproducible search strategies
+----------------
 
-databases -- generate boolean using ai from plain language
-
-## General-Purpose LLMs 
+## General Purpose LLMs 
 
 Most people are now familiar with general purpose AI chat interfaces, such as those from the major platforms:
 
@@ -37,40 +38,24 @@ However, a general purpose AI chat assistant interface is available:
 
 Features:
 
-- It is great for drafting and editing writing, explaining concepts, summarizing and asking questions about your documents, working with data, writing code, brainstorming, and translating.​
+- Good for drafting and editing writing, explaining concepts, summarizing and asking questions about your documents, working with data, writing code, brainstorming, and translating.​
 - Deep Research is a first-pass research assistant intended to help users discover sources, understand a topic, and identify avenues for further investigation. Craft your query, give it time to work--you will get emailed a PDF report later.
 - VandalChat does not have any special access to U of I information, policies, procedures, etc. or the Library's resources.
 
+----------------
+
 ## Specialized Research Tools
 
-These serve narrower functions but remain far less known (average awareness ~11% per tool):
+- [Gemini Notebook](https://notebook.google.com/) (NotebookLM) - research assistant grounded in specific sources you select/upload.
+- [Ai2 Asta](https://asta.allen.ai/) - scholarly research assistant that combines literature understanding and data-driven discovery.
+- [Research Rabbit](https://www.researchrabbit.ai/) - analyzes and follows citation chains to uncover landscape of research. Search from an article, keyword, or Zotero library.
+- [Elicit AI](https://elicit.com/) - Literature discovery, extracts data across papers, builds comparison tables.
+- [Semantic Scholar](https://www.semanticscholar.org/) - AI academic search recommendations.
+- [Consensus AI](https://consensus.app/search/) - scholarly search tool that attempts to summarize methods and evolution of research questions.
+- [Scite](https://scite.ai/) - attempts to show whether citations support or contradict claims.
 
-Undermind
+----------------
 
+### Database Helpers
 
-| Category | Tool | Primary Use |
-|---|---|---|
-| Literature discovery | **Elicit** | Extracts data across papers; builds comparison tables |
-| Literature discovery | **Consensus** | Answers questions with confirming/opposing evidence from 200M+ papers |
-| Literature mapping | **ResearchRabbit** | "Spotify for papers" — visualizes citation networks |
-| Citation verification | **Scite** | Shows whether citations support or contradict claims |
-| Writing assistance | **Paperpile** | Reference management with AI features |
-| Code/data | **Jupyter AI / Copilot** | In-notebook assistance for computational research |
-| Summarization | **Semantic Scholar** | AI-powered paper recommendations |
-| Knowledge synthesis | **NotebookLM** | Upload sources and chat with your corpus |
-
-
-- Ai2 Asta, https://asta.allen.ai/
-    -  scholarly research assistant that combines literature understanding and data-driven discovery. Asta uses 108M+ abstracts and 12M+ full-text papers to find, summarize, and analyze scientific evidence
-- Research Rabbit, https://www.researchrabbit.ai/
-    - online tool that helps you discover research faster, stay organized, and build a deeper understanding of your field.1 By following citation trails, who a paper cites, and who cites it in turn, you can uncover the full landscape of literature in your field
-    - search from an article, link to zotero library, keyword search
-
-- primo Research Assistant, https://alliance-uidaho.primo.exlibrisgroup.com/discovery/login?vid=01ALLIANCE_UID:UID
-
-ChatGPT won't flag its own hallucinations, won't show you dissenting viewpoints unless prompted, and presents uncertain claims with fluent confidence—all amplification risks for automation bias, confirmation bias, and fluency illusions.
-
-
-https://www.nature.com/immersive/partnercontent/fudan/aiforscience/chapter-2-ai-tools-in-research.html
-https://www.wiley.com/en-us/about-us/ai/study/researchers
-
+- [Primo Research Assistant](https://alliance-uidaho.primo.exlibrisgroup.com/discovery/login?vid=01ALLIANCE_UID:UID) - AI tool built in to the Library's catalog, that translates natural language chat interface into search in the catalog's resources. Provides real sources and summaries, however, may be limited due to searching only a small set of resources.

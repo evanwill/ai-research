@@ -1,16 +1,20 @@
----
-section: Strategies
-nav_order: 2
-title: Cognitive Bias
-topics: 
----
 
-Automation Bias
 
-1. Automation Bias (and Complacent Monitoring)What it is: The psychological tendency to favor suggestions, calculations, or evaluations produced by an automated system, often overriding contradictory empirical evidence or independent human judgment.   How it manifests in AI research:Commission Errors: A researcher accepts an incorrect AI recommendation—such as an unsuitable statistical methodology, a flawed data interpretation, or a fabricated citation—because the tool articulated it with authoritative, academic phrasing.   Omission Errors & Complacent Monitoring: When an AI literature tool (such as Elicit) fails to retrieve a seminal paper or an AI coding assistant overlooks a logical flaw in an analysis script, researchers who have grown accustomed to the tool’s past utility assume the silence of the machine signifies that no error or missing information exists.   Information Literacy Focus: Emphasize that language fluency does not equal factual accuracy. Information seekers must treat automated screening and extraction tools strictly as "second reviewers" or preliminary adjuncts rather than decisive arbiters.   
+| Research Task | AI Platforms | Traditional Databases |
+| --- | --- | --- |
+| Choosing a topic | Good at summarizing fields and basic concept mapping | Curated databases can be browsed and reveal recent "hot" research |
+| Finding sources | Good at natural language queries and mapping broad conceptual relationships | Uses boolean and keyword searching, citation chaining, and other strategies to return verified sources |
+| Evaluating sources | 
+| Literature Synthesis | Summarizes trends across multiple papers and extracts specific methodologies. | Returns abstracts; synthesis is manual. |
+| Access & Scope | Heavily biased toward Open Access research and recent works; frequently blind to recent paywalled articles. | Provides access to institutional subscriptions, curated research sources, historical archives. |
+{:.table .table-bordered}
 
-https://manuelgarcia.info/guides/research/guide/automation-bias-ai-assisted-research
-^ most ai thing ever
+
+Engaging deeply with generative AI often subverts the traditional process of strategic exploration. Instead of navigating a complex landscape of diverse sources, evaluating their origins, and synthesizing varying perspectives, the user is immediately handed a pre-synthesized, authoritative-sounding answer. This algorithmic mediation can severely erode learner autonomy and short-circuit the critical thinking process, as the AI effectively performs the cognitive labor of sifting and synthesis on the user's behalf. To preserve intellectual rigor, librarians and educators are actively adapting established evaluation heuristics to address the specific vulnerabilities of LLM outputs.
+
+-------------------
+
+
 
 In the context of AI-assisted academic research and information literacy instruction, three primary cognitive biases distort how researchers interact with and evaluate generative AI outputs:
 
@@ -97,7 +101,7 @@ These biases are especially relevant when AI tools make retrieval, summarization
 
 **Why it matters in research:** AI makes it easy to get a “good enough” answer quickly. This can reduce depth of coverage, miss methodologically stronger studies, and weaken reproducibility and citation practices.
 
-**Prical mitigation**
+**Practical mitigation**
 - Set explicit **completion criteria** (e.g., # of peer-reviewed sources, time span, study designs, grey literature).
 - Use a literature matrix to compare: design, sample, methods, findings, limitations.
 - Do a final “gap check”: what populations, settings, or methods are still unaddressed?

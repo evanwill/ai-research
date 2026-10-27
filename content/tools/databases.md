@@ -1,7 +1,7 @@
 ---
 section: Tools
 nav_order: 2
-title: Traditional Tools
+title: Database Tools
 topics: 
 ---
 
@@ -59,3 +59,41 @@ They are useful for exploring research areas and discovering new content, especi
     - Connect to UI Library:
         - If you connect U of I Library to your Scholar account, search results will show a link "Univ of Idaho - Get it" to access full text items in our subscriptions. 
         - [How to connect to UI Library](https://www.lib.uidaho.edu/find/accesstools.html#connect-google-scholar-to-u-of-i-library)
+
+-----------------
+
+## Search Strategies
+
+While AI tools excel at using natural language, traditional Library database search strategies are the opposite--normal phrases do not provide good results. 
+Instead, the quality of your literature review depends on careful consideration of your subject keywords.
+
+## Develop Keywords 
+
+- Write down your research topic or question.
+    - Start from a potential group project topic: Palouse Groundwater Management, Campus Clean Energy Technologies, STEM Literacy and Learning Experiences, Sustainable Campus Events and Operations.
+- Underline the key terms.
+- Starting from your known topics, write down some:
+    - Broader concepts
+    - Narrower concepts
+    - Related concepts
+    - Synonyms
+
+## Boolean Searching
+
+Booleans operators to expand, narrow, and refine your search terms: 
+
+- Test your keywords:
+    - Experiment with different uses of AND, OR, and NOT
+    - Try `*` wildcards to allow multiple word endings
+- How do the number of results change? 
+- How do the type of results change? 
+- Do results bring up new related terms and keywords?
+
+## Citation Chaining
+
+Good scholarship builds on other good scholarship!
+Citations are an essential part of scholarly literature. 
+They are also incredibly useful for starting your research.
+
+If you know one good article in your topic area, you can explore the works it cites, and the newer articles that cite it. 
+Scholarship is a network!
