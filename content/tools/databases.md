@@ -5,8 +5,7 @@ title: Traditional Tools
 topics: 
 ---
 
-Traditionally, the research process started using the Library's catalog and database tools to
-find sources for your research and literature review. 
+Traditionally, the research process started using the Library's catalog and databases to find sources for your research questions and literature review. 
 It is important to understand the different types of platforms and how their coverage differs:
 
 | Tool | Example | Content | 

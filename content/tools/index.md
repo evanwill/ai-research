@@ -9,6 +9,20 @@ topics:
 The empirical conclusion drawn from these tests is that current AI retrieval tools lack the necessary sensitivity to replace traditional database searching. They are, however, invaluable adjunct tools. Their high precision makes them ideal for rapid preliminary scoping, feasibility assessments during the proposal stage of a review, and as cross-referencing mechanisms to ensure traditional Boolean searches did not overlook conceptually related literature.
 
 
+Considerations:
+
+- what sources do they search or have access to?
+- what exactly are the searching
+- reproducibility, transparency
+
+Other: 
+
+- cost
+- privacy
+- bias imbedded in the system
+
+
+
 | Research Task | AI / LLM Platforms | Traditional Databases |
 | --- | --- | --- |
 | Initial Discovery | Excels at natural language queries and mapping broad conceptual relationships. | Requires precise Boolean logic and exact keyword matching. |
