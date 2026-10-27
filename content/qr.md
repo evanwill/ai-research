@@ -11,6 +11,6 @@ Short link to this website:
 `is.gd/ai_ilw`
 {:.h1 .mb-5}
 
-{% include figure.html img="qr-code.png" alt="qr code linking to survey above" %}
+{% include figure.html img="qr-code.png" alt="qr code linking to survey above" width="75%" %}
 
 `evanwill.github.io/ai-research/`
