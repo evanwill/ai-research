@@ -32,8 +32,7 @@ Most people are now familiar with general purpose AI chat interfaces, such as th
 
 ### VandalChat
 
-U of I maintains its own "sovereign" AI infrastructure running on University hardware and managed by Research Computing and Data Services, so no data is sent to non-campus entities.​
-Advanced users can access it via the [MindRouter](https://mindrouter.uidaho.edu/) interface to set up APIs. 
+U of I maintains its own "sovereign" AI infrastructure running on University hardware and managed by Research Computing and Data Services, so no data is sent to non-campus entities.​ Advanced users can access it via the [MindRouter](https://mindrouter.uidaho.edu/) interface to set up APIs. 
 However, a general purpose AI chat assistant interface is available:
 
 [VandalChat](https://chat.uidaho.edu/){:.btn .btn-lg .btn-warning}
