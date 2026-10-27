@@ -17,6 +17,7 @@ Considerations:
 - Vandal Chat, https://chat.uidaho.edu/
     - https://mindrouter.uidaho.edu/blog/introducing-vandalchat-deep-research
     - AI chat assistant powered by MindRouter. It is great for drafting and editing writing, explaining concepts, summarizing and asking questions about your documents, working with data, writing code, brainstorming, and translating.​
+    - VandalChat Deep Research is a first-pass research assistant intended to help users discover sources, understand a topic, and identify avenues for further investigation. Its reports are not peer reviewed and should not be treated as authoritative research. Every factual claim and citation should be independently verified before use in scholarship, proposals, publications, or decision-making. You are responsible and accountable for how the report is interpreted, applied, cited, or incorporated into subsequent work.
     - VandalChat does not have any special access to U of I information, policies, procedures, etc. at this point, but it might in the future​
 - MindRouter, https://mindrouter.uidaho.edu/
     - University of Idaho’s own generative AI service. Anyone with a Vandal account can sign in. It runs on University hardware and is managed by Research Computing and Data Services, so no data is sent to non-campus entities.​
@@ -78,3 +79,10 @@ Specialized tools like Scite and Consensus help mitigate some of these risks by 
 
 https://www.nature.com/immersive/partnercontent/fudan/aiforscience/chapter-2-ai-tools-in-research.html
 https://www.wiley.com/en-us/about-us/ai/study/researchers
+
+
+-----------
+
+VandalChat 
+
+- deep research mode, craft a query, get a PDF report back, emailed later

@@ -1,15 +1,11 @@
-# lesson-template
+# ai-research
 
-Learn-Static Lesson Template is a minimal [Jekyll](https://jekyllrb.com/) project to create a simple lesson, workshop, or documentation website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
-It features a sidebar navigation providing clear structure for step by step content.
-The sidebar nav supports pages nested into sections to help organize your lesson content. 
+AI Research Showdown (Information Landscape Workshop)
 
-All content is written using basic Markdown, making it simple to write, edit, and reuse lesson materials.
-The template provides Liquid includes to simplify adding Bootstrap components to your pages.
-Writing content in this simple, reuseable format makes for a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources) since anyone can make a copy and adapt.
+Join us for AI tools battling head-to-head!
+In this hands-on session, we'll put a variety of LLM platforms and tools available on campus to the test, seeing how they stack up in common research tasks. We'll explore how to help identify biases and errors in their outputs; discussing where these tools are useful (or not) compared to traditional research databases and search strategies.
 
-Visit the [demo site](https://learn-static.github.io/lesson-template/) to view example output on GitHub Pages and basic documentation.
-To use Lesson Template to create your own website --> make a copy and replace the template content with your own!
+--------------
 
 ## How To Use Template
 

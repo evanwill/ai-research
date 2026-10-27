@@ -5,8 +5,37 @@ title: Research Strategies
 topics: 
 ---
 
+For a live workshop evaluating these platforms head-to-head, students must learn to treat AI not as a traditional search engine, but as an interpreter whose outputs require lateral verification
+
+
+- Specialized Academic AI (Consensus, Elicit, Undermind): These platforms bypass general chat interfaces to search directly across scientific literature databases. They excel at paper discovery, extracting methodology-level details, and synthesizing cross-study consensus.
+- Generalist Campus LLMs (Claude, Gemini, ChatGPT): While highly capable of processing long-context documents and translating dense academic jargon, they do not inherently search scholarly databases unless specifically prompted or tethered to a retrieval tool. They are best utilized for brainstorming, refining research questions, and generating Boolean strings.
+
+
+| Research Task | AI / LLM Platforms | Traditional Databases |
+| --- | --- | --- |
+| Initial Discovery | Excels at natural language queries and mapping broad conceptual relationships. | Requires precise Boolean logic and exact keyword matching. |
+| Literature Synthesis | Summarizes trends across multiple papers and extracts specific methodologies. | Returns isolated abstracts; synthesis is entirely manual. |
+| Systematic Reviews | Unreliable due to hidden retrieval algorithms and inability to ensure exhaustive recall. | Essential. Provides reproducible search histories and rigorous limiters. |
+| Access & Scope | Heavily biased toward Open Access research and recent works; frequently blind to recent paywalled articles. | Provides guaranteed access to institutional subscriptions and historical archives. |
+
+
+The report identifies significant performance limitations, particularly in citation accuracy, where general-purpose models frequently generate fabricated or inaccurate references. In contrast, specialized platforms that link claims to specific sources reduce this risk. The evidence shows that verification requires distinct tests for existence and support, with practical workflows involving lateral reading, DOI resolution, and cross-referencing with independent sources.
+the field is characterized by a growing reliance on AI for exploratory search and drafting, yet a persistent need for human oversight to detect errors and biases. The report found that hallucinated citations are becoming more prevalent, often disproportionately affecting early-career researchers and reinforcing existing inequities in scientific recognition. For information literacy workshops, the findings suggest that educators must position AI tools as supports rather than replacements for critical reasoning. Students are advised to treat AI outputs as unverified
+
+Misattribution and Synthesis Errors: While models hallucinate fake citations less frequently than they used to, they still routinely misattribute a real claim to the wrong author, or confidently generate a summary that contradicts the actual findings of the cited paper.
+
+
 lots of change, but the fundamental skills of the research process remain the same. 
 information literacy, evaluating information
+
+
+- Lateral Verification: Require students to take an AI-generated summary and run its citations back through a traditional database to verify publication status, context, and accuracy.
+- Interrogating the Algorithm: Teach students to ask the model about its own blind spots (e.g., prompting the AI with, "What perspectives, methodologies, or data might be excluded from this summary?").
+- Evaluating the Interpretation: The core of modern information literacy is recognizing that students are no longer just evaluating a primary source—they are evaluating the AI's interpretation of that source.
+
+https://about.ebsco.com/blogs/ebscopost/ai-literacy-information-literacy-helping-students-navigate-new-research-landscape
+https://crln.acrl.org/index.php/crlnews/article/view/26704/34626
 
 - prompt as iterative process. research questions evolve. prompt engineering is same as basic research skills. 
 - literacy framework --> searching for and evaluating information
