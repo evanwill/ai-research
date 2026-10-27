@@ -31,7 +31,7 @@ After having success with some outputs, we grow to assume all outputs will be ac
 
 ## Fluency Illusion
 
-Well-written, coherent text feels true--and AI produces exceptionally smooth text. This bias makes readers conflate readability with credibility. A confidently cited but fabricated source *feels* more trustworthy than a clunky but legitimate one.
+Well-written, coherent text feels true--and AI produces smooth text delivered in a conversational, agreeable, and authoritative manner. This bias makes readers conflate readability with credibility. A confidently cited but fabricated source *feels* more trustworthy than a clunky but legitimate one.
 
 ## Anchoring Bias
 
@@ -47,10 +47,6 @@ Similarly, when AI summarises complex material, the summary's clarity can create
 Navigating and evaluating AI outputs is similar to other information literacy approaches you have learned about to support research.
 Rather than just evaluating the credibility of a primary source, you are now also evaluating the AI's interpretation of the sources.
 
-Lateral reading is a technique that involves reviewing additional sources of information about an author, publication, claim, or organization. If you think of vertical reading as moving up and down a webpage to read its contents, then lateral reading involves opening more tabs to find more sources about the contents of the original page. You can look up websites, newspaper titles, authors, publishers, etc., in Google and Wikipedia to see what other voices say about the source you are investigating. 
-
-Don't take a single source's word on its own! Instead, read laterally, and find more information to confirm or deny claims.
-
 Approaches:
 
 - Restate your query using neutral and opposing-frame language.
@@ -58,7 +54,14 @@ Approaches:
 - Treat AI output as a lead, not a conclusion.
 - Verify claims against the primary sources.
 - Actively seek counter evidence to key claims.
+- Lateral reading.
 - Use the SIFT method.
+
+### Lateral Reading
+
+Lateral reading is a technique that involves reviewing additional sources of information about an author, publication, claim, or organization. If you think of vertical reading as moving up and down a webpage to read its contents, then lateral reading involves opening more tabs to find more sources about the contents of the original page. You can look up websites, newspaper titles, authors, publishers, etc., in Google and Wikipedia to see what other voices say about the source you are investigating. 
+
+Don't take a single source's word on its own! Instead, read laterally, and find more information to confirm or deny claims.
 
 ### SIFT Method
 

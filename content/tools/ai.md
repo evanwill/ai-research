@@ -28,19 +28,23 @@ Most people are now familiar with general purpose AI chat interfaces, such as th
 - [Microsoft Copilot](https://copilot.com/) - uses other models integrated into Microsoft 365 ecosystem. Accessible via [U of I account](https://support.uidaho.edu/TDClient/40/Portal/KB/Article/3610/How-to-access-Microsoft-Copilot).
 - [Perplexity AI](https://www.perplexity.ai/) - less of a general purpose tool, it uses other models in an answer and research focused tool with citation of sources.
 
-### Vandal Chat
+<div class="card card-body my-4 border-warning" markdown="1">
+
+### VandalChat
 
 U of I maintains its own "sovereign" AI infrastructure running on University hardware and managed by Research Computing and Data Services, so no data is sent to non-campus entities.​
 Advanced users can access it via the [MindRouter](https://mindrouter.uidaho.edu/) interface to set up APIs. 
 However, a general purpose AI chat assistant interface is available:
 
-[Vandal Chat](https://chat.uidaho.edu/){:.btn .btn-lg .btn-primary}
+[VandalChat](https://chat.uidaho.edu/){:.btn .btn-lg .btn-warning}
 
 Features:
 
 - Good for drafting and editing writing, explaining concepts, summarizing and asking questions about your documents, working with data, writing code, brainstorming, and translating.​
 - Deep Research is a first-pass research assistant intended to help users discover sources, understand a topic, and identify avenues for further investigation. Craft your query, give it time to work--you will get emailed a PDF report later.
 - VandalChat does not have any special access to U of I information, policies, procedures, etc. or the Library's resources.
+
+</div> 
 
 ----------------
 
